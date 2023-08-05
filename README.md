@@ -1,6 +1,4 @@
 <p align ="center">
-<!-- <img align="left" width="8%"  src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/batman_drink.gif"></a> -->
-<!-- <img align="right" width="8%"  src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/batman_drink.gif"></a> -->
 <h1 align="center">profile.exe</h1>
 <div align ="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=NAWAMADARA&color=ff69b4" />
