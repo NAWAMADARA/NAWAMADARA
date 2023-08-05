@@ -1,32 +1,31 @@
 <p align ="center">
-<img align="left" width="8%"  src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/batman_drink.gif"></a>
-<img align="right" width="8%"  src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/batman_drink.gif"></a>
-<h1 align="center">Welcome to my profile</h1>
+<!-- <img align="left" width="8%"  src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/batman_drink.gif"></a> -->
+<!-- <img align="right" width="8%"  src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/batman_drink.gif"></a> -->
+<!-- <h1 align="center">Welcome to my profile</h1> -->
 <div align ="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=NAWAMADARA&color=lightgrey" />
 </div>
 </p>
 <br>
-<br>
-<br>
+
 
 <!-- name -->
 <div align="center">                                                               
-<img align="center" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/name_logo_v2.png?raw=true" />
+<img align="center" src="images/1.png" />
 </div>
 
 <br>
 
 <!-- about-me -->
-<p>
-<img align="left" width="20%" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/left-tourch.gif"></a>
-<img align="right" width="20%" src="https://github.com/Muazzy/Muazzy/blob/main/images%20and%20gifs/right-tourch.gif"></a>
-<p align="center"> I'm a final year Software Engineering student at MUET, Jamshoro, with a passion for learning and a love for designing and developing Flutter apps. I'm currently expanding my Flutter skills and also exploring full stack web development. It's an exciting journey that keeps me motivated to push boundaries in the world of software engineering. </p>
-</p>
-<br>
+<p align="center"> I'm a final year Software Engineering student at MUET, Jamshoro </p>
+
+
 <br>
 <br>
 <hr>
+<img align="center" src="images/3.png" />
+
+
 
 <!-- languages etc -->
 <p>
