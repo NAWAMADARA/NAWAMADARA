@@ -9,7 +9,7 @@
 
 <!-- name -->
 <div align="center">                                                               
-<img align="center" src="images/1.png" />
+<img align="center" src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" />
 </div>
 
 <br>
