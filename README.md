@@ -10,7 +10,7 @@
 <!-- name -->
 <div align="center">                                                               
 <!-- <img align="center" src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" /> -->
-<img src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" width="875px" height="400px">
+<img src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" width="875px" height="325px">
 </div>
 
 <br>
