@@ -10,7 +10,7 @@
 <!-- name -->
 <div align="center">                                                               
 <!-- <img align="center" src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" /> -->
-<img src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" width="875px" height="350px">
+<img src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" width="875px" height="400px">
 </div>
 
 <br>
@@ -29,4 +29,4 @@
 
 
 <hr>
-<img align="center" src="images/3.png" />
+<img align="center" src="images/1.png"/>
