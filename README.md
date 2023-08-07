@@ -9,7 +9,8 @@
 
 <!-- name -->
 <div align="center">                                                               
-<img align="center" src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" />
+<!-- <img align="center" src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" /> -->
+<img style="height: 51%;display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" width="811" height="446">
 </div>
 
 <br>
