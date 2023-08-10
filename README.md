@@ -10,7 +10,7 @@
 <!-- name -->
 <div align="center">                                                               
 <!-- <img align="center" src="https://gifdb.com/images/high/madara-activates-susanoo-3y5i93fvflgsdkrk.gif" /> -->
-<img src="https://gifdb.com/images/high/madara-uchiha-staring-while-rocks-floating-dcnvelw7kfe8lx41.webp" width="875px" height="325px">
+<img src="https://gifdb.com/images/high/madara-uchiha-madly-looking-h41lmv8u63ci1y6r.webp" width="875px" height="375px">
 </div>
 
 <br>
