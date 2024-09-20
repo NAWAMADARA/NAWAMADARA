@@ -16,7 +16,7 @@
 <br>
 
 <!-- about-me -->
-<p align="center"> I'm a final year Software Engineering student at MUET, Jamshoro </p>
+<p align="center"> I AM. </p>
 
 <hr>
 
